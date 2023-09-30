@@ -15,6 +15,18 @@ height: 300px;
     list-style-type: none;
 } */
 
-/* .navbar-text{
+ span.navbar-text{
     color: white;
-} */
+} 
+.img-fluid{
+    width: 90%;
+}
+@media screen and (max-width: 768px) {
+    #home{
+text-align: center;
+    }
+}
+
+.hr-line{
+    color: white;
+}
